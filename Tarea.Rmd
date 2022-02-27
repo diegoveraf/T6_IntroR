@@ -1,0 +1,12 @@
+---
+title: "Deber Introduccion R"
+author: "Diego Vera F"
+date: '2022-02-26'
+output: html_document
+---
+
+#Crear un identificador de nombre "ciudad" y Asigne
+#Como valor el nombre de alguna ciudad 
+
+Ciudad = "Guayaquil" 
+
